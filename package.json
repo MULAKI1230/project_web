@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@hotwired/turbo-rails": "^8.0.12",
+    "@rails/ujs": "^7.1.3-4",
+    "autoprefixer": "^10.4.20",
+    "controllers": "^0.0.2",
+    "postcss": "^8.5.2"
+  },  
+  "name": "project_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MULAKI1230 <mulkiea100@gmail.com>",
+  "license": "MIT",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "tailwindcss": "^4.0.6"
+  }
+}
